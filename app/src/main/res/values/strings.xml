@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Petopedia</string>
+    <string name="name_cat">Cat</string>
+    <string name="name_dog">Dog</string>
+    <string name="name_sheep">Sheep</string>
+    <string name="name_rabbit">Rabbit</string>
+    <string name="name_parrot">Parrot</string>
+    <string name="animal_species">This is from %1$s species</string>
+    <string name="total_count">Total count %1$s</string>
+    <string name="fab">fab</string>
+</resources>
