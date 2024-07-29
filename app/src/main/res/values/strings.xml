@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carousel</string>
+    <string name="name_cat">Cat</string>
+    <string name="name_dog">Dog</string>
+    <string name="name_sheep">Sheep</string>
+    <string name="name_rabbit">Rabbit</string>
+    <string name="name_parrot">Parrot</string>
+    <string name="animal_species">This is from %1$s species</string>
+</resources>
